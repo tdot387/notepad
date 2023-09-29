@@ -1,0 +1,9 @@
+.input-fields {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    input {
+       max-width: 400px; 
+    }
+}
